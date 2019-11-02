@@ -1,0 +1,37 @@
+.OurStoryFollowUs-section {
+    background-color: #fff;
+    padding-bottom: 40px;
+  }
+  @media screen and (min-width: 801px) {
+    .OurStoryFollowUs-section {
+      padding-bottom: 80px;
+    }
+  }
+  
+  .scrollarea,
+  .widget-container {
+    background-color: #fff;
+  }
+  
+  .OurStory1stLine,
+  .OurStory2ndLine {
+    margin: 0;
+    border: 1px solid #d8d8d8;
+    margin: 0 5%;
+  }
+  @media screen and (min-width: 801px) {
+    .OurStory1stLine,
+  .OurStory2ndLine {
+      margin: 0;
+    }
+  }
+  
+  .OurStory2ndLine {
+    margin: 10px 5% 0;
+  }
+  
+  @media screen and (min-width: 801px) {
+    .OurStory1stLine {
+      display: none;
+    }
+  }
